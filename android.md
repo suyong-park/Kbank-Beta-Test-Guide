@@ -15,29 +15,51 @@ Android 오픈베타 프로그램은 **등록된 Gmail 계정**에 한해 링크
 ### 다운로드 방법
 
 1. **공개 링크 열기**  
-   - **Android 베타 설치하기** 버튼을 눌러주세요. 베타앱 참여 링크입니다.
+**Android 베타 설치하기** 버튼을 눌러주세요. 베타앱 참여 링크입니다.
 
-2. **베타 프로그램 참여**  
+
+2. **베타 프로그램 참여**
+
    - **Android 베타 설치하기** 버튼을 클릭하면 Google Play의 **베타 프로그램 참여 화면**으로 이동합니다.
    - <img src="screenshot/aos_01.jpeg" alt="베타 참여 화면" width="300"/>
 
    
    - **“Become a Tester”** 버튼을 클릭합니다.
    - <img src="screenshot/aos_02.jpeg" alt="Play 스토어 업데이트 화면" width="300"/>
-  
+
 
    - 이후 Google Play 스토어에서 앱이 업데이트(또는 새로 설치)됩니다.
    - 만약 아래 화면과 같이 케이뱅크(베타) 로 표시되지 않는 경우, 약 10분 뒤에 다시 확인해 주세요.
    - <img src="screenshot/aos_03.jpeg" alt="앱 설치 화면" width="300"/>  
 
-3. **이메일이 등록되지 않은 사용자**  
+
+3. **이메일이 등록되지 않은 사용자**
+
    - 등록되지 않은 Gmail로 접속 시 **오류 메시지**가 표시됩니다.
-   - **Gmail 등록하기** 버튼을 클릭하여 Google Play Store 에 로그인된 이메일을 등록해 주세요.  
-
-
-   <img src="screenshot/aos_04.jpeg" alt="오류 메시지 화면" width="300"/>  
+   - **Gmail 등록하기** 버튼을 클릭하여 Google Play Store 에 로그인된 이메일을 등록해 주세요.
+   - <img src="screenshot/aos_04.jpeg" alt="오류 메시지 화면" width="300"/>  
 
 ---
+
+### 베타 테스터 탈퇴 방법
+
+1. Google Play Store 에서 케이뱅크 앱 찾기
+<img src="screenshot/aos_05.png" alt="케이뱅크 베타 Play 스토어 화면" width="300"/>
+
+2. 아래로 스크롤하여 베타 테스터 **나가기** 버튼 찾기
+<img src="screenshot/aos_06.png" alt="베타 테스트 나가기 버튼" width="300"/>  
+
+3. **나가기** 버튼 클릭
+<img src="screenshot/aos_07.png" alt="베타 테스트 얼럿 나가기 버튼" width="300"/>
+
+4. "베타에서 삭제하는 중..." 이 표시됩니다. 잠시 기다리면, 베타 테스트 프로그램에서 탈퇴할 수 있습니다.
+<img src="screenshot/aos_08.png" alt="베타 삭제하는 중" width="300"/>  
+
+5. 베타 테스트 탈퇴시, **케이뱅크(베타) 에서 케이뱅크 로 변경됩니다.**
+<img src="screenshot/aos_09.png" alt="케이뱅크 Play 스토어 화면" width="300"/>  
+
+6. 베타 테스트 프로그램은 다시 참여할 수 있습니다.
+<img src="screenshot/aos_10.png" alt="케이뱅크 베타 재참여 가능" width="300"/>  
 
 ### 참고사항
 - 반드시 **Google Play 스토어에 로그인된 Gmail 계정**이 등록되어 있어야 베타 앱을 설치할 수 있습니다.  
