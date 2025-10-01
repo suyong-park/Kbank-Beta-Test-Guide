@@ -34,11 +34,11 @@ Workflows 개인 메시지로 전달받은 내용에서 **Android 베타 설치�
 
 1.   **Android 베타 설치하기** 버튼을 클릭하면 Google Play 의 **베타 프로그램 참여 화면**으로 이동합니다.
 
-2.   아래 **왼쪽 화면**에서 **"BECOME A TESTER"** 버튼을 클릭합니다.
+2.   아래 **첫 번째 화면**에서 **"BECOME A TESTER"** 버튼을 클릭합니다.
 
-3.   **가운데 화면**을 확인합니다. 
+3.   **두 번째 화면**을 확인합니다. 
 
-4.   잠시 뒤, **오른쪽 화면**처럼 Google Play Store 에서 앱이 업데이트 됩니다. 오른쪽 화면처럼 표시되지 않는 경우, 잠시 뒤 다시 시도해 주세요.
+4.   잠시 뒤, **세 번째 화면**처럼 Google Play Store 에서 앱이 업데이트 됩니다. 오른쪽 화면처럼 표시되지 않는 경우, 잠시 뒤 다시 시도해 주세요.
 
      <img src="screenshot/aos_01.jpeg" alt="베타 참여 화면" width="300"/> <img src="screenshot/aos_02.jpeg" alt="Play 스토어 업데이트 화면" width="300"/> <img src="screenshot/aos_03.jpeg" alt="Play 스토어 업데이트 화면" width="300"/>
 
@@ -46,8 +46,8 @@ Workflows 개인 메시지로 전달받은 내용에서 **Android 베타 설치�
 
 ### 이메일이 등록되지 않은 사용자
 
-1.   등록되지 않은 Gmail 로 **Android 베타 설치하기** 버튼을 클릭하면, 아래 화면처럼 오류 메시지가 표시됩니다.
-2.   오른쪽 화면의 **Gmail 등록하기**를 먼저 진행해 주세요.
+1.   등록되지 않은 Gmail 로 **Android 베타 설치하기** 버튼을 클릭하면, 첫 번째 화면처럼 오류 메시지가 표시됩니다.
+2.   두 번째 화면의 **Gmail 등록하기**를 먼저 진행해 주세요.
 
 <img src="screenshot/aos_04.jpeg" alt="Play 스토어 업데이트 화면" width="300"/> <img src="screenshot/android-new-gmail.png" alt="Play 스토어 업데이트 화면" width="500"/>
 
